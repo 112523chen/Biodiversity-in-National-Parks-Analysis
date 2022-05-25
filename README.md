@@ -16,7 +16,7 @@ Here are a few questions that this project intends to answer
 **Data Sources:**
 Both `Observations.csv` and `Species_info.csv` was provided by Codecademy
 
-*Note*: The data within this project is inspired by real data and doesn't 100 accurately describe the real data in the real world
+*Note*: The data within this project is inspired by real data and doesn't 100 percent accurately describe the real data in the real world
 
 ## **Scoping**
 ---
